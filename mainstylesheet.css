@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: auto;
+    
+}
+
+.sectionstyle{
+    float: left;
+    margin-left:5px;
+    width: 48%;
+}
+
+.my-photo{
+    width: 80%;
+    height: auto;
+}
